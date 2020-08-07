@@ -1,6 +1,8 @@
 # Lex Defoe | Full-Stack Javascript Developer
 
-Recent graduate of Founders & Coders, London.
+I’m a JavaScript developer who loves React, good UX and data visualisation.  I am passionate about usability, accessibility and tech for good.
+
+I'd like to work somewhere i can continue to hone my skills and am hoping to join an organisation that uses technology to make the world better place.
 
 Link to [pdf](/AlexisDefoeCV2018.pdf) 
  CV.
@@ -8,12 +10,13 @@ Link to [pdf](/AlexisDefoeCV2018.pdf)
 
 | Front-End        | Back-End       | Databases     | Testing          | Design              | Other             |
 |:----------------:|:--------------:|:-------------:|:----------------:|:-------------------:|:-----------------:|
-| JavaScript       | Node.js        | PostgreSQL    | Tape             | Adobe DX            | Git & Github      |
-| HTML5            | Express        |               | Shot             | Adobe Illustrator   | Heroku            |
-| CSS3/SCSS        |                |               | Travis CI        | Adobe Photoshop     | Design Thinking   |
-| React            |                |               |                  | Figma               | Leaflet|
-| Handlebars       |                |               |                  | Invision            | D3                  |
-
+| JavaScript       | Node.js        | PostgreSQL    | Jest             | Adobe DX            |                   |
+| HTML5            | Express        |               | Travis CI        | Adobe Illustrator   | Heroku            |
+| CSS3/SCSS        | Git & Github   |               |                  | Adobe Photoshop     | Design Thinking   |
+| React            | S3             |               |                  | Figma               | Leaflet           | 
+| D3               |                |               |                  | Invision            |                   |
+| Angular          |                |               |                  |
+| Gastsby.js       |  
 
 ## My Fave Projects
 
@@ -40,24 +43,28 @@ Data Vis Projects: [GDP Bar Chart (d3)](https://github.com/DevGrrrl/GDP-barchart
 
 ## Interests & Hobbies
 
-* Node!
-* AI
+* Web Accessibility
+* Good UX
 * Data Vis
 * Tech For Good
 * Space :space_invader:
 * Learning new things
 * Drawing/painting with pencils and pixels
 * Reading, writing and watching great TV
+* Music
 * Homebody (see above)
 
-## Recent Employment History
+## Relevant Employment History
 
-### The Old Vic Theatre
-__Box Office Assistant & Usher__
+### Arup
+__Software Developer__
 
-2010 - Present
+June 2018 - August 2020
 
 ## Previous Study 
+
+### Open College of the Arts
+* Graphic Design Key Concepts 
 
 ### Academy of Live & Recorder Arts (ALRA)
 * Postgraduate Acting
