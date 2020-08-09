@@ -8,15 +8,16 @@ Link to [pdf](/AlexisDefoeCV2018.pdf)
  CV.
 ## Skills
 
-| Front-End        | Back-End       | Databases     | Testing          | Design              | Other             |
-|:----------------:|:--------------:|:-------------:|:----------------:|:-------------------:|:-----------------:|
-| JavaScript       | Node.js        | PostgreSQL    | Jest             | Adobe DX            |                   |
-| HTML5            | Express        |               | Travis CI        | Adobe Illustrator   | Heroku            |
-| CSS3/SCSS        | Git & Github   |               |                  | Adobe Photoshop     | Design Thinking   |
-| React            | S3             |               |                  | Figma               | Leaflet           | 
-| D3               |                |               |                  | Invision            |                   |
-| Angular          |                |               |                  |
-| Gastsby.js       |  
+| Front-End        | Back-End       | Testing       | Design           | Other               |
+|:----------------:|:--------------:|:-------------:|:----------------:|:-------------------:|
+| JavaScript       | Node.js        | Jest          | Adobe DX         | Design Thinking     |
+| HTML5            | Express        | Travis CI     | Adobe Illustrator|                     |            
+| CSS3/SCSS        | LoopBack       |               | Adobe Photoshop  |                     |
+| React            | Git & Github   |               | Figma            |                     | 
+| D3               | S3             |               | Invision         |                     |
+| Angular          | PostgreSQL     |               |                  |                     |
+| GastsbyJS        |                |               |                  |                     |
+| Leaflet          |                |               |                  |                     |
 
 ## My Fave Projects
 
