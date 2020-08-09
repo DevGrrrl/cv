@@ -11,9 +11,9 @@ Link to [pdf](/AlexisDefoeCV2018.pdf)
 | Front-End        | Back-End       | Testing       | Design           | Other               |
 |:----------------:|:--------------:|:-------------:|:----------------:|:-------------------:|
 | JavaScript       | Node.js        | Jest          | Adobe DX         | Design Thinking     |
-| HTML5            | Express        | Travis CI     | Adobe Illustrator|                     |            
+| HTML5            | Express        | Travis CI     | Adobe Illustrator| Git & Github        |            
 | CSS3/SCSS        | LoopBack       |               | Adobe Photoshop  |                     |
-| React            | Git & Github   |               | Figma            |                     | 
+| React            |                |               | Figma            |                     | 
 | D3               | S3             |               | Invision         |                     |
 | Angular          | PostgreSQL     |               |                  |                     |
 | GastsbyJS        |                |               |                  |                     |
