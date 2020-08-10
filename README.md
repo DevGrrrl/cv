@@ -1,4 +1,4 @@
-# Lex Defoe | Full-Stack Javascript Developer
+# Lex Defoe | JavaScript Developer
 
 I’m a JavaScript developer who loves React, good UX and data visualisation.  I am passionate about usability, accessibility and learning new things.
 
