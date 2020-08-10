@@ -13,9 +13,9 @@ Link to [CV pdf](/CV2020.pdf). Please contact me if you require a different form
 | JavaScript       | Node.js        | Jest          | Adobe DX         | Design Thinking     |
 | HTML5            | Express        | Travis CI     | Adobe Illustrator| Git & Github        |            
 | CSS3/SCSS        | LoopBack       |               | Adobe Photoshop  |                     |
-| React            |                |               | Figma            |                     | 
-| D3               | S3             |               | Invision         |                     |
-| Angular          | PostgreSQL     |               |                  |                     |
+| React            | S3             |               | Figma            |                     | 
+| D3               | PostgreSQL     |               | Invision         |                     |
+| Angular          |                |               |                  |                     |
 | GastsbyJS        |                |               |                  |                     |
 | Leaflet          |                |               |                  |                     |
 
