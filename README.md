@@ -4,7 +4,7 @@ I’m a JavaScript developer who loves React, good UX and data visualisation.  I
 
 I'd like to work somewhere i can continue to hone my skills and am hoping to join an organisation that uses technology to make the world better place.
 
-Link to [pdf](/AlexisDefoeCV2018.pdf) 
+Link to [pdf](/CV 2020.pdf) 
  CV.
 ## Skills
 
