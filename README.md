@@ -1,6 +1,6 @@
 # Lex Defoe | Full-Stack Javascript Developer
 
-I’m a JavaScript developer who loves React, good UX and data visualisation.  I am passionate about usability, accessibility and tech for good.
+I’m a JavaScript developer who loves React, good UX and data visualisation.  I am passionate about usability, accessibility and learning new things.
 
 I'd like to work somewhere i can continue to hone my skills and am hoping to join an organisation that uses technology to make the world better place.
 
